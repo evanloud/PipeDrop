@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PipeDrop</string>
+    <string name="temperature">Temperature</string>
+    <string name="properties">Properties</string>
+    <string name="degF">°F</string>
+    <string name="pressure">Pressure</string>
+    <string name="pressureInH2O">inWC</string>
+    <string name="density">Density</string>
+    <string name="densityEnglish">lb\u2098/ft\u00B3</string>
+    <string name="viscosity">Viscosity</string>
+    <string name="viscosityCentiPoise">cP</string>
+    <string name="specificHeat">k, Cp/Cv</string>
+    <string name="pipeID">Pipe ID</string>
+    <string name="inches">in</string>
+    <string name="flowRate">Flow Rate</string>
+    <string name="flowLbmPerHr">lb\u2098/hr</string>
+    <string name="differentialPressure">Orifice dP</string>
+    <string name="orificeDiameter">Orifice Diameter</string>
+    <string name="calcFlowRate">Calculate Flow Rate</string>
+    <string name="calcDP">Calculate dP</string>
+    <string name="calcOrificeDiameter">Calculate Diameter</string>
+    <string name="calculate">Calculate</string>
+    <string name="ammoniaConc">Ammonia Conc.</string>
+    <string name="percent">%</string>
+    <string name="pipedrop">PipeDrop</string>
+    <string name="orificeCalcButton">Orifice Calculations</string>
+    <string name="manual">Manual</string>
+    <string name="fuelFlow">Fuel Flow</string>
+    <string name="lbperhr">lb/hr</string>
+    <string name="dpWithUnits">Pressure Drop, InWC</string>
+    <string name="ammoniaPPM">Ammonia, ppm</string>
+    <string name="oxygen">Stack Oxygen</string>
+    <string name="ppmCalc">PPM Calculations</string>
+    <string name="calcPPM">Calculate PPM</string>
+    <string name="ammoniaFlow">Ammonia Flow</string>
+    <string name="numAIGZones">Number of AIG Zones</string>
+    <string-array name="pipeSizes">
+        <item></item>
+        <item>1 inch</item>
+        <item>2 inch</item>
+        <item>2.5 inch</item>
+        <item>3 inch</item>
+        <item>4 inch</item>
+        <item>5 inch</item>
+        <item>6 inch</item>
+        <item>7 inch</item>
+        <item>8 inch</item>
+        <item>9 inch</item>
+        <item>10 inch</item>
+        <item>11 inch</item>
+        <item>12 inch</item>
+    </string-array>
+</resources>
